@@ -1,0 +1,6 @@
+framework module Pods_RumbleRoast_RumbleRoastUITests {
+  umbrella header "Pods-RumbleRoast-RumbleRoastUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

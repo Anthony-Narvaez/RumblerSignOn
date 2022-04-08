@@ -1,0 +1,6 @@
+framework module Pods_RumbleRoast {
+  umbrella header "Pods-RumbleRoast-umbrella.h"
+
+  export *
+  module * { export * }
+}
